@@ -1,0 +1,11 @@
+# basic options
+title: Finally-Jekyll
+author: Anish
+email: findanish@gmail.com
+description: Just Jekyll
+twitter_username: findanish
+github_username: findanish
+
+# Build settings
+markdown: kramdown
+theme: minima
